@@ -6,7 +6,7 @@
 
 **Data Analyst · AI/ML Engineer**
 
-Cairo, Egypt &nbsp;·&nbsp; Open to Remote
+Cairo, Egypt &nbsp;·&nbsp; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-khalil-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hemagamer)
