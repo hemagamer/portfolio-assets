@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hemagamer/portfolio-assets/Hema/hema911.png" width="120" style="border-radius: 50%;" alt="Ibrahim Hema"/>
+<img src="https://raw.githubusercontent.com/hemagamer/portfolio-assets/Hema/hema911.png" width="120" style="border-radius: 100%;" alt="Ibrahim Hema"/>
 
 # Ibrahim Khalil
 
